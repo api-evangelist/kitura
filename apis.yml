@@ -1,11 +1,9 @@
 aid: kitura
-url: 
-  https://raw.githubusercontent.com/api-search/kitura/refs/heads/main/apis.yml
+url: https://raw.githubusercontent.com/api-search/kitura/refs/heads/main/apis.yml
 apis:
   - aid: kitura:kitura
     name: Kitura
-    tags:
-      - API
+    tags: []
     humanURL: https://www.kitura.dev/
     properties:
       - url: https://www.kitura.dev/
