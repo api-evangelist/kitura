@@ -4,6 +4,10 @@ apis:
 - aid: kitura:kitura
   name: Kitura
   tags:
+  - Framework
+  - Server-Side Swift
+  - Web
+  tags_raw:
   - Frameworks
   - Server-Side Swift
   - Web
@@ -19,6 +23,12 @@ apis:
     actively maintained.
 name: Kitura
 tags:
+- Archived
+- Deployment
+- Framework
+- Server-Side Swift
+- Web
+tags_raw:
 - Archived
 - Deployment
 - Frameworks
