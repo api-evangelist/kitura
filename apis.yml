@@ -66,7 +66,7 @@ accessModel:
 image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/kitura.png
 access: 3rd-Party
 created: '2024-11-07'
-modified: '2026-09-16'
+modified: '2026-10-06'
 position: Consuming
 description: Kitura was an open source web framework for server-side Swift, originally developed by IBM,
   that allowed developers to use Swift for building web applications and REST APIs with support for databases,
@@ -77,6 +77,8 @@ maintainers:
   email: kin@apievangelist.com
 specificationVersion: '0.23'
 common:
+- url: https://www.kitura.dev/news/
+  type: Blog
 - type: Website
   url: https://kitura.dev
 - type: DomainSecurity
