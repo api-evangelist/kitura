@@ -1,4 +1,4 @@
-# Kitura (kitura)
+# Kitura
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -66,42 +66,100 @@
 
 Kitura was an open source web framework for server-side Swift, originally developed by IBM, that allowed developers to use Swift for building web applications and REST APIs with support for databases, WebSockets, and OpenAPI. The project is now archived and no longer actively maintained, but remains a useful historical reference for server-side Swift API development.
 
-**URL:** [Visit APIs.json URL](https://raw.githubusercontent.com/api-evangelist/kitura/refs/heads/main/apis.yml)
+**Areas:** Archived · Deployment · Framework · Server-Side Swift · Web
 
-## Scope
+## Kitura on APIs.io
 
-- **Type:** Contract
-- **Position:** Consuming
-- **Access:** 3rd-Party
+Everything profiled for Kitura is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/kitura/](https://apis.io/providers/kitura/)** — or go straight to one of the APIs or properties below.
 
-## Tags
+### APIs (1)
 
-- Archived, Deployment, Frameworks, Server-Side Swift, Web
+- [Kitura](https://apis.io/apis/kitura/kitura/) — Kitura is an open source web framework for server-side Swift, originally built by IBM. The project enabled developers to build web applications and REST…
 
-## Timestamps
+### Published properties
 
-- **Created:** 2024-11-07
-- **Modified:** 2026-04-28
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
 
-## APIs
+#### Security (1)
 
-### Kitura
+Authentication, trust centre, and vulnerability disclosure.
 
-Kitura is an open source web framework for server-side Swift, originally built by IBM. The project enabled developers to build web applications and REST APIs in Swift with support for databases, WebSockets, and OpenAPI. The Kitura GitHub repository is now archived and the project is no longer actively maintained.
+- [Kitura Domain Security](https://apis.io/security/kitura/kitura-domain-security/)
 
-**Human URL:** [https://www.kitura.dev/](https://www.kitura.dev/)
+#### Plans and pricing (1)
 
-#### Tags
+Published plans, tiers and prices.
 
-- Frameworks, Server-Side Swift, Web
+- [Kitura Plans Pricing](https://apis.io/plans/kitura/kitura-plans-pricing/)
 
-#### Properties
+#### Rate limits (1)
 
-- [Documentation](https://www.kitura.dev/)
-- [GitHub Repository](https://github.com/Kitura/Kitura)
+Published request limits.
 
-## Maintainers
+- [Kitura Rate Limits](https://apis.io/rate-limits/kitura/kitura-rate-limits/)
 
-**FN:** Kin Lane
+#### FinOps (1)
 
-**Email:** kin@apievangelist.com
+What the API costs to run, by operation.
+
+- [Kitura Finops](https://apis.io/finops/kitura/kitura-finops/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://kitura.dev)
+- [Blog](https://www.kitura.dev/news/)
+
+## API Evangelist rating
+
+**Kin Score 10.0** — minimal · rubric 0.24.0 · scored 2026-10-17
+
+| Facet | Score |
+|---|---|
+| Discoverability | 57.1 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 13.2 |
+| Developer ergonomics | 11.9 |
+| Access clarity | 7.9 |
+
+**Agent readiness 0.6** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | derived (partial credit) |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 5.9** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/kitura/](https://apis.io/providers/kitura/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Kitura: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/kitura/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
